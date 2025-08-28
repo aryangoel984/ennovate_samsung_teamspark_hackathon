@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/aryangoel/Desktop/samsung_final/ennovate_samsung_teamspark_hackathon/src",
+      "program": "/Users/aryangoel/Desktop/samsung_final/ennovate_samsung_teamspark_hackathon/src/build/Debug/outDebug"
+    }
+  ]
+}
