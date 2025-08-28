@@ -1,0 +1,4 @@
+session_id,action,start_epoch,end_epoch
+test_session_001,watch_reels,1756371330,1756371421
+test_session_001,scroll_feed,1756371423,1756371497
+test_session_001,idle,1756371497,1756371527
