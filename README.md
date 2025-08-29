@@ -5,7 +5,7 @@ SNS applications (such as Facebook and YouTube), transmit both video (short vide
   
 - **Team Name** - SPARK 
 - **Team Members** - ARYAN GOEL, DHRUV MEERWAL, DHRUV GARG 
-- **Demo Video Link** - <YouTube Public/Unlisted Link Only>  
+- **Demo Video Link** - https://www.youtube.com/watch?v=UZxNrNbgQKo
 
 ---
 
@@ -16,15 +16,6 @@ SNS applications (such as Facebook and YouTube), transmit both video (short vide
 
 - **Source Code** → [Source](src)  
   (All source code is placed in the `src/` folder. Code must be installable/executable and run consistently.)  
-
-- **Models Used**  
-  - <List Hugging Face links of all models used>  
-
-- **Models Published**  
-  - <If developed, provide Hugging Face links with open-source license>  
-
-- **Datasets Published**  
-  - <Links to any datasets you created and published on Hugging Face>  
 
 ---
 
